@@ -5,9 +5,7 @@ import json
 
 def parse_page(path):
     html = urlopen(path)
-    #https://habr.com/ru/search/page2/?q=Парсинг&target_type=posts&order=relevance
-    #https://habr.com/ru/search/?q=Парсинг&target_type=posts&order=relevance
-    bs = BeautifulSoup(html.read(), 'html.parser') # без .read(), если работаем с файлом 
+    bs = BeautifulSoup(html.read(), 'html.parser')
     article_titles = bs.findAll('h2', {'class': 'tm-article-snippet__title tm-article-snippet__title_h2'})
     authors = bs.findAll('a', {'class': 'tm-user-info__username'})
     links = bs.find_all('a', {'class': 'tm-article-snippet__title-link'}, href=True)
