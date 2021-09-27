@@ -1,0 +1,302 @@
+[
+  {
+    "title":"Парсинг — это законно?",
+    "author":"Semin_Pavel",
+    "link":"https://habr.com/ru/post/545818/"
+  },
+  {
+    "title":"Правда про парсинг сайтов, или «все интернет-магазины делают это»",
+    "author":"makasin4ik",
+    "link":"https://habr.com/ru/post/446488/"
+  },
+  {
+    "title":"Парсинг сайтов — а это вообще легально в России?",
+    "author":"makasin4ik",
+    "link":"https://habr.com/ru/post/450834/"
+  },
+  {
+    "title":"Как выбрать решение для парсинга сайтов: классификация и большой обзор программ, сервисов и фреймворков",
+    "author":"ellen_stepnaya",
+    "link":"https://habr.com/ru/post/521646/"
+  },
+  {
+    "title":"Парсинг сайтов: как с  ... ",
+    "author":"makasin4ik",
+    "link":"https://habr.com/ru/post/340302/"
+  },
+  {
+    "title":"Пример использования Product API от Fetchee для парсинга товаров интернет-магазина",
+    "author":"silenzushka",
+    "link":"https://habr.com/ru/company/fetchee/blog/316558/"
+  },
+  {
+    "title":"Теория и практика парсинга исходников с помощью ANTLR и Roslyn",
+    "author":"KvanTTT",
+    "link":"https://habr.com/ru/company/pt/blog/210772/"
+  },
+  {
+    "title":"CSS, JavaScript и блокировка парсинга веб-страниц",
+    "author":"ru_vds",
+    "link":"https://habr.com/ru/company/ruvds/blog/560740/"
+  },
+  {
+    "title":"Парсинг и работа с Codable в Swift 4",
+    "author":"Passt",
+    "link":"https://habr.com/ru/post/414221/"
+  },
+  {
+    "title":"Парсинг и анализ семантики для SEO: 5 бесплатных шаблонов Google Sheets",
+    "author":"Clickru",
+    "link":"https://habr.com/ru/company/click/blog/465277/"
+  },
+  {
+    "title":"Парсинг на Pуthon. Как собрать архив Голубятен",
+    "author":"talurus",
+    "link":"https://habr.com/ru/post/121815/"
+  },
+  {
+    "title":"Продвинутый парсинг веб-сайтов с Mechanize",
+    "author":"tonymadbrain",
+    "link":"https://habr.com/ru/post/253439/"
+  },
+  {
+    "title":"Веб-парсинг на Ruby",
+    "author":"tonymadbrain",
+    "link":"https://habr.com/ru/post/252379/"
+  },
+  {
+    "title":"Искусство парсинга 2 или транслитерация собственной разметки",
+    "author":"2che",
+    "link":"https://habr.com/ru/post/444876/"
+  },
+  {
+    "title":"Парсинг telegram каналов для агрегатора контента на PHP",
+    "author":"xtrime",
+    "link":"https://habr.com/ru/post/349942/"
+  },
+  {
+    "title":"Как проанализировать рынок фотостудий с помощью Python (1/3). Парсинг данных",
+    "author":"dmitry_malygin",
+    "link":"https://habr.com/ru/post/504900/"
+  },
+  {
+    "title":"Парсинг YouTube, включая подгружаемые данные, без YouTube API",
+    "author":"0r030n0",
+    "link":"https://habr.com/ru/post/505888/"
+  },
+  {
+    "title":"Использование morph.io для веб-парсинга",
+    "author":"tonymadbrain",
+    "link":"https://habr.com/ru/post/262991/"
+  },
+  {
+    "title":"Парсинг сайтов-магазинов. Личный опыт и немного how-to",
+    "author":"pokryshkin",
+    "link":"https://habr.com/ru/post/169409/"
+  },
+  {
+    "title":"Еще о парсинге на Prolog'е",
+    "author":"xonix",
+    "link":"https://habr.com/ru/post/60430/"
+  },
+  {
+    "title":"Grab — python библиотека для парсинга сайтов",
+    "author":"itforge",
+    "link":"https://habr.com/ru/post/127584/"
+  },
+  {
+    "title":"Парсинг формул в 50 строк на Python",
+    "author":"griganton",
+    "link":"https://habr.com/ru/post/273253/"
+  },
+  {
+    "title":"Product API от Fetchee: автоматический парсинг товаров интернет-магазинов",
+    "author":"silenzushka",
+    "link":"https://habr.com/ru/company/fetchee/blog/314960/"
+  },
+  {
+    "title":"Парсинг сайта кинотеатра на Golang",
+    "author":"noorsoftprod",
+    "link":"https://habr.com/ru/post/493088/"
+  },
+  {
+    "title":"Развлечения с парсингом IP-адресов",
+    "author":"tw_community",
+    "link":"https://habr.com/ru/company/timeweb/blog/563274/"
+  },
+  {
+    "title":"Парсинг сайта Умного Голосования и новый API на сайте ЦИК",
+    "author":"boddiul",
+    "link":"https://habr.com/ru/post/519796/"
+  },
+  {
+    "title":"Парсинг почтовых адресов из строки на C#",
+    "author":"t13s",
+    "link":"https://habr.com/ru/post/232347/"
+  },
+  {
+    "title":"Реализация на Python многопоточной обработки данных для парсинга сайтов",
+    "author":"SomeOneWhoCares",
+    "link":"https://habr.com/ru/post/323238/"
+  },
+  {
+    "title":"Искусство парсинга или DOM своими руками",
+    "author":"2che",
+    "link":"https://habr.com/ru/post/442964/"
+  },
+  {
+    "title":"Красивый парсинг email оповещений из банка",
+    "author":"junk",
+    "link":"https://habr.com/ru/post/125397/"
+  },
+  {
+    "title":"Про LL-парсинг: Подход к синтаксическому анализу через концепцию нарезания строки",
+    "author":"klvov",
+    "link":"https://habr.com/ru/post/412905/"
+  },
+  {
+    "title":"Простой парсинг сайтов с помощью SlimerJS",
+    "author":"Tur1st",
+    "link":"https://habr.com/ru/post/247847/"
+  },
+  {
+    "title":"Использование Grab:Spider для парсинга сайтов",
+    "author":"istinspring",
+    "link":"https://habr.com/ru/post/142212/"
+  },
+  {
+    "title":"Тестирование или парсинг сайтов с динамическим дом и многое другое. Nightmare.js — ему все равно",
+    "author":"vshvydky",
+    "link":"https://habr.com/ru/post/331752/"
+  },
+  {
+    "title":"Фреймворк для парсинга Grab:Spider",
+    "author":"itforge",
+    "link":"https://habr.com/ru/post/134918/"
+  },
+  {
+    "title":"Документация по Grab — библиотеке для парсинга сайтов",
+    "author":"itforge",
+    "link":"https://habr.com/ru/post/139435/"
+  },
+  {
+    "title":"История о парсинге одного aspx сайта",
+    "author":"arizona",
+    "link":"https://habr.com/ru/post/221811/"
+  },
+  {
+    "title":"Вышла библиотека PyWhat для автоматического парсинга трафика",
+    "author":"Data_center_MIRAN",
+    "link":"https://habr.com/ru/company/dcmiran/news/t/563206/"
+  },
+  {
+    "title":"Парсинг резюме",
+    "author":"CPro",
+    "link":"https://habr.com/ru/post/301936/"
+  },
+  {
+    "title":"Парсинг access.log апача",
+    "author":"amarox",
+    "link":"https://habr.com/ru/post/131093/"
+  },
+  {
+    "title":"Парсинг CSV-файла средствами bash и awk",
+    "author":"Denv3r",
+    "link":"https://habr.com/ru/post/184956/"
+  },
+  {
+    "title":"Парсинг документа Word на картинки или история о преддипломных буднях",
+    "author":"evilandfox",
+    "link":"https://habr.com/ru/post/264443/"
+  },
+  {
+    "title":"Парсинг на языке Prolog",
+    "author":"N_Ikhsanov",
+    "link":"https://habr.com/ru/post/274799/"
+  },
+  {
+    "title":"Парсинг 0.5Tb xml за несколько часов. Поиск организаций в открытых данных реестра субъектов МСП ФНС",
+    "author":"Codeup1054",
+    "link":"https://habr.com/ru/post/358654/"
+  },
+  {
+    "title":"Парсинг kad.arbitr и поиск клиентов",
+    "author":"zoldaten",
+    "link":"https://habr.com/ru/post/547680/"
+  },
+  {
+    "title":"Парсинг Instagram в промышленных масштабах",
+    "author":"rawoak",
+    "link":"https://habr.com/ru/post/571846/"
+  },
+  {
+    "title":"Gmail grabber — класс парсинга контактного листа",
+    "author":"Sect0R",
+    "link":"https://habr.com/ru/post/48591/"
+  },
+  {
+    "title":"Как вы относитесь к парсингу сайтов без разрешения их владельцев?",
+    "author":"JeanLouis",
+    "link":"https://habr.com/ru/post/122899/"
+  },
+  {
+    "title":"LXML — проблемы с кодировкой при парсинге HTML",
+    "author":"sancheus",
+    "link":"https://habr.com/ru/post/128381/"
+  },
+  {
+    "title":"Как работает JS: абстрактные синтаксические деревья, парсинг и его оптимизация",
+    "author":"ru_vds",
+    "link":"https://habr.com/ru/company/ruvds/blog/415269/"
+  },
+  {
+    "title":"Парсинг JSON — это минное поле",
+    "author":"AloneCoder",
+    "link":"https://habr.com/ru/company/mailru/blog/314014/"
+  },
+  {
+    "title":"Как быстрее DOM построить: парсинг, async, defer и preload",
+    "author":"A3a",
+    "link":"https://habr.com/ru/post/338840/"
+  },
+  {
+    "title":"Парсинг HTML в браузерах для смены вёрстки блоков",
+    "author":"spmbt",
+    "link":"https://habr.com/ru/post/165139/"
+  },
+  {
+    "title":"Что делать, когда CSS блокирует парсинг страницы?",
+    "author":"ru_vds",
+    "link":"https://habr.com/ru/company/ruvds/blog/490628/"
+  },
+  {
+    "title":"Elixir: Готовим парсинг правильно — yecc и leex",
+    "author":"Virviil",
+    "link":"https://habr.com/ru/post/309382/"
+  },
+  {
+    "title":"Параллельный парсинг большого количества HTML-страниц с помощью Apache Ignite (GridGain) в 200 строк кода",
+    "author":"tumikosha",
+    "link":"https://habr.com/ru/post/271475/"
+  },
+  {
+    "title":"Дополняя SQL. Часть 1. Сложности парсинга. Истории о доработке ANTLR напильником",
+    "author":"podkolzzzin",
+    "link":"https://habr.com/ru/post/502416/"
+  },
+  {
+    "title":"Парсинг Markdown и LaTeX в Grazie Chrome Plugin",
+    "author":"JetBrains_Education",
+    "link":"https://habr.com/ru/company/JetBrains-education/blog/565280/"
+  },
+  {
+    "title":"Организация сбора и парсинга логов при помощи Filebeat",
+    "author":"voro6yov",
+    "link":"https://habr.com/ru/post/550352/"
+  },
+  {
+    "title":"«Правильный» html парсинг",
+    "author":"eforce",
+    "link":"https://habr.com/ru/post/115127/"
+  }
+]
